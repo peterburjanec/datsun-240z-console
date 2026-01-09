@@ -1,5 +1,5 @@
 # datsun-240z-console
-This is a 3D printable top console for a Dartsun 240z. 
+This is a 3D printable top console for a Datsun 240z. 
 
 1. Printer used: Bambu P1S
 2. Filament recommended: eSUN PLA+
